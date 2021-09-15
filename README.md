@@ -25,6 +25,7 @@ Ukrštanje se vrši nasumičnim odabirom niza nasumične dužine uzastopnih gena
 Mutacija predstavlja nasumičnu zamenu određena dva gena. Verovatnoća da će doći do mutacije predstavlja broj od 0 do 1 i unosi se kao parametar funkcije.
 
 Pri pozivu algoritma unose se ovi parametri:
+*geneticAlgortihm(starting_point,mutationRate,elitismRate,generation_num,population_size)*
 
 ![](RackMultipart20210915-4-u70ygm_html_a701367f4c9eb7e.gif)
 
