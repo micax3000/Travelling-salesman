@@ -41,6 +41,6 @@ Pri pozivu algoritma unose se ovi parametri:
 
 Algoritam se pokazao kao efektivan. U proseku, algoritam već posle 200 generacija nalazi duplo bolja rešenja od početnih. Ovaj algoritam predstavalja samo jedan od algoritama koji aproksimira rešenje problema trgovačkog putnika. Prednost ovog algoritma je relativno jednostavna implementacija.
 
-# Primer izlaza
+## Primer izlaza
 
-![](/home/micax/Pictures/Figure_1.png)
+![Figure_1](https://user-images.githubusercontent.com/73846781/231573937-7a6ede5d-4062-4a5a-8992-5802e7d2577b.png)
